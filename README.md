@@ -12,7 +12,7 @@ Built a home lab using Windows Server on UTM (macOS) to learn Active Directory, 
 
 ## Virtual Machine Setup
 Initial VM setup and configuration in UTM.
-![VM Setup](DC1-server-manager.png)
+![VM Setup](dc1-server-manager.png)
 
 ## Active Directory Installation & Configuration
 Installed AD DS and DNS roles and configured the server as a Domain Controller (DC1).
